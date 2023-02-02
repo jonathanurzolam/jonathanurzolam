@@ -3,4 +3,4 @@ I am passionate about technology, I believe that our lives are permeated in all 
 - 👀 I’m interested in build software solutions that help my clients improve their businesses, their lives, and bridge the digital divide.
 - 🌱 I’m currently learning React Native.
 - 💞️ I’m looking to collaborate on train new quality Latin American developers.
-- 📫 Puedes contactarme por correo al email jonathan.urzola@outlook.com.
+- 📫 You can contact me by email at jonathan.urzola@outlook.com.
